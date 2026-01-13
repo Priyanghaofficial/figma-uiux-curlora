@@ -27,6 +27,7 @@ frontend using **HTML and CSS**.
 ---
 
 ## 📂 Project Structure
+```
 figma-uiux-curlora/
 │── index.html
 │── style.css
@@ -37,7 +38,7 @@ figma-uiux-curlora/
 │   └── icons/
 │── README.md
 
-
+```
 ---
 
 ## ✨ Key Features
